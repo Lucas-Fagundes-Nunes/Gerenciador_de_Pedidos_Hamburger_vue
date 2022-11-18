@@ -1,0 +1,10 @@
+vue create .
+npm install json-server
+    Acrecentar "backend": "json-server --watch db/db.json"
+
+
+
+executar:
+    npm run backend
+    npm run serve
+    
